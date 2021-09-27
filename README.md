@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats-tonyle.vercel.app/api/pin/?username=tfle&repo=github-readme-stats)](https://github.com/tfle/github-readme-stats)
+[![Readme Card](https://github-readme-stats-tonyle.vercel.app/api/pin/?username=tfle&repo=github-readme-stats)](https://github.com/tfle/tfle)
