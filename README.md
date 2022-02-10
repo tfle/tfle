@@ -16,4 +16,5 @@
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python")](https://github.com/tfle?tab=repositories&q=&type=source&language=python)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white "R")](https://github.com/tfle?tab=repositories&q=&type=source&language=r)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript")](https://github.com/tfle?tab=repositories&q=&type=source&language=javascript)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C")](https://github.com/tfle?tab=repositories&q=&type=source&language=c)
 
