@@ -1,5 +1,6 @@
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Calculating the Geometric Mean](https://tonyle.com/calculating-the-geometric-mean/)
 - [Set Up a GitHub Pages Site with Hugo](https://tonyle.com/set-up-a-github-pages-site-with-hugo/)
 - [Hello World](https://tonyle.com/hello-world/)
 <!-- BLOG-POST-LIST:END -->
