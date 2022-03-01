@@ -1,8 +1,15 @@
+## Spice up your profile README with a flowchart
 ```mermaid
-pie title Time spent creating my profile README
-    "Browsing other people's README for inspiration" : 60
-    "Reading their blog posts about their README" : 20
-    "Generating custom badges on shields.io" : 10
-    "Deciding to implement a pie chart instead" : 7.5
-    "Wondering if I'm upsetting data viz experts" : 2.5
+%%{init:{"theme":"base"}}%%
+flowchart LR
+    classDef clickStyle stroke:#0000EE,stroke-width:2px
+    A([Start]) ==>B{{Do you like<br> flowcharts?}}
+    B --Yes--> C[Let's make<br> a flowchart!] --> D{{Do you want to read<br> the documentation first?}}
+    D --Yes--> E([Check out the basic<br> flowchart syntax here!])
+    D --No--> F([Play with the<br> Mermaid Live Editor!])
+    B --No--> B1[I understand.<br> Really, I do.] --> B2([There are better ways<br> to visualise processes.])
+    click B2 "https://youtu.be/dQw4w9WgXcQ" _blank
+    click E "https://mermaid-js.github.io/mermaid/#/flowchart" _blank
+    click F "https://mermaid.live/" _blank
+    class B2,E,F clickStyle
 ```
