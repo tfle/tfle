@@ -19,7 +19,7 @@ flowchart LR
     B --No--> B1{{Do you<br> like spice?}}
     B1 --Yes--> B2(["🌶️"])
     B1 --No--> B1    
-    click B2 "https://youtu.be/dQw4w9WgXcQ" _blank
+    click B2 "https://github.com/tfle/tfle/discussions/new?category=spice&title=🌶%EF%B8%8F%20Adding%20spice%21%20🌶%EF%B8%8F&body=Just%20click%20%22Start%20discussion%22%20to%20add%20spice%21" _blank
     click D "https://mermaid-js.github.io/mermaid/#/flowchart" _blank
     click E "https://mermaid.live/" _blank
     class B2,D,E clickStyle
