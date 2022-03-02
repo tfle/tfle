@@ -1,4 +1,4 @@
-<h2 align="center">Spice up your profile README with a flowchart</h2>
+## Spice up your profile README with a Mermaid flowchart
 
 ```mermaid
 %%{init:{
