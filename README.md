@@ -1,4 +1,4 @@
-## Spice up your profile README with a Mermaid flowchart
+## How to spice up your profile README with a flowchart
 
 ```mermaid
 %%{init:{
