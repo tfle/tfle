@@ -1,0 +1,9 @@
+name: "Add Spice"
+author: "Tony Le"
+description: "Adds :hot_pepper: to the README.md"
+runs:
+  using: "composite"
+  steps:
+    - run: echo ":hot_pepper:" >> "${{ github.action_path }}/README.md"
+      shell: bash
+
