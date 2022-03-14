@@ -8,4 +8,4 @@ jobs:
     name: A job to add spice
     steps:
       - name: Add spice action step
-        uses: tfle/tfle
+        uses: tfle/tfle@v1-beta
