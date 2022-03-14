@@ -1,0 +1,11 @@
+on:
+  discussion:
+    types: [created]
+
+jobs:
+  add_spice_job:
+    runs-on: ubuntu-latest
+    name: A job to add spice
+    steps:
+      - name: Add spice action step
+        uses: tfle/tfle
